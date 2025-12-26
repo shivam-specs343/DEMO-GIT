@@ -1,0 +1,22 @@
+Git >> version control
+
+    v1
+    v2
+    v3
+new v4
+
+
+>> It is distributed (on cloud)
+>> collaboration
+>> Tracking changes
+>> Recovery
+
+>> For 1st time need to configure github in our system
+git config --global user.name "shivam-specs343"
+git config --global user.name "shivamkumarsingh5274@gmail.com"
+
+git config --global colour.ui auto
+
+Mandatory commands:
+>> git init
+>> git remote add orogin https://github.com/shivam-specs343/DEMO-GIT.git
